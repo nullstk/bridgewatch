@@ -1,0 +1,6 @@
+{
+  "name": "BridgeWatch",
+  "enabled": true,
+  "verbose": false,
+  "output_dir": "./out"
+}
